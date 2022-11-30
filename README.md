@@ -1,6 +1,6 @@
 # RLogist
 
-Fast Observation Strategy on Whole-slide Images with Deep Reinforcement Learning
+Fast Observation Strategy on Whole-slide Images with Deep Reinforcement Learning (accepted by AAAI 2023)
 
 ## Fully Automated Run
 
