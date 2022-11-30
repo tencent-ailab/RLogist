@@ -1,0 +1,12 @@
+version: train_v1
+class_num: 2
+class_info:
+  - class_name: negative
+    class_id: 0
+  - class_name: positive
+    class_id: 1
+feature_extract_model: resnet50_imagenet_pretrain
+mil_model: CLAM_SB
+learning_rate: 0.0002
+lr_scheduler: StepLR
+loss_func: CrossEntropyLoss
